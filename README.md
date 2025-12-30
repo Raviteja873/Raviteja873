@@ -1,5 +1,62 @@
-# 💫 About Me:
-I’m an aspiring Software Developer with a strong interest in building secure, user-friendly web applications. I enjoy combining backend logic with clean frontend design and I’m always eager to learn, collaborate, and grow through real-world projects. <br><br>Dasari RaviTeja-resume<br><br>🌿 About Me<br><br>🔭 I’m currently working on<br>Secure and scalable web applications using Flask, Python, SQL, and basic frontend technologies (HTML, CSS, JavaScript). <br><br>Dasari RaviTeja-resume<br><br>👯 I’m looking to collaborate on<br>Web development projects, educational platforms, beginner-friendly open-source projects, and UI/UX design tasks. <br><br>Dasari RaviTeja-resume<br><br>🤝 I’m looking for help with<br>Advanced backend development, system design concepts, and improving JavaScript skills. <br><br>🌱 I’m currently learning<br>Advanced Flask, database optimization, frontend design best practices, and strengthening my Java fundamentals. <br><br>Dasari RaviTeja-resume<br><br>💬 Ask me about<br>Python, Flask projects, SQLite/MySQL, basic frontend design, Canva designs, or getting started in web development. <br><br>Dasari RaviTeja-resume<br><br>⚡ Fun fact<br>I’ve maintained a 400+ day learning streak on Duolingo and won 2nd place in a logo design competition—coding and creativity go hand in hand for me
+
+💫 About Me
+
+Hi! I’m Dasari Ravi Teja, an aspiring Software Developer with a strong interest in building secure, scalable, and user-friendly web applications.
+I enjoy blending solid backend logic with clean frontend design and I’m always eager to learn, collaborate, and grow through real-world projects.
+
+🔭 Currently Working On
+
+Secure and scalable web applications
+
+Backend development using Flask, Python, and SQL
+
+Frontend basics with HTML, CSS, and JavaScript
+
+👯 Looking to Collaborate On
+
+Web development projects
+
+Educational platforms
+
+Beginner-friendly open-source contributions
+
+UI/UX design tasks
+
+🤝 Looking for Help With
+
+Advanced backend development
+
+System design concepts
+
+Improving JavaScript skills
+
+🌱 Currently Learning
+
+Advanced Flask concepts
+
+Database optimization
+
+Frontend design best practices
+
+Strengthening Java fundamentals
+
+💬 Ask Me About
+
+Python & Flask projects
+
+SQLite / MySQL
+
+Basic frontend design
+
+Canva designs
+
+Getting started in web development
+
+⚡ Fun Fact
+
+I’ve maintained a 400+ day learning streak on Duolingo 🟢
+and won 2nd place in a logo design competition —
+for me, coding and creativity go hand in hand 🎨💻
 
 
 ## 🌐 Socials:
